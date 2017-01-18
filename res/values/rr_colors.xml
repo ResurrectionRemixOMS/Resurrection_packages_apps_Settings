@@ -72,7 +72,7 @@
 
     <color name="divider_color">#20ffffff</color>
 
-    <color name="switchbar_background_color">@*android:color/primary_material_settings</color>
+
     <color name="switchbar_text_color">#ffffffff</color>
     <color name="switch_accent_color">@color/theme_accent</color>
 
